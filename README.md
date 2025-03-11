@@ -21,6 +21,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Arshia Moghbel](https://github.com/Arshia-Moghbel):heart:
 - [afsartala](https://github.com/aafsartala)
 - [Mehrdad Jafari :smiley:](https://github.com/MEHRDADsmj)
+- [Zeynab Bordbar :smiley:](https://github.com/bordbar69920)
 - [Mohammad Kazemi](https://github.com/mohammadkazemy)
 - [Amirhossein Abdollahi nejat](https://github.com/djamir86)
 - [PeymanSF :smiley: ](https://github.com/peymansf2000)
